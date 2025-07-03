@@ -285,7 +285,7 @@ set "productkey=K9VKN-3BGWV-Y624W-MCRMQ-BHDCD"
 set "productName=Windows 10 SE N"
 set "EditionID=CloudEditionN"
 set "compositioneditionid=EnterpriseN"
-set "relaseId=22H2"
+set "relaseId=2009"
 set "CurrentBuild=19045"
 set "UBR=4291"
 goto forceInstall
